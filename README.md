@@ -2,6 +2,8 @@
 
 整理一下前段时间改的一个View
 
+放一下[csdn博客](https://blog.csdn.net/qq_45722196/article/details/127646847?spm=1001.2014.3001.5502)
+
 # 一、原版仓库
 [github上的Android-Wheel-Menu](https://github.com/anupcowkur/Android-Wheel-Menu)
 
@@ -372,6 +374,7 @@ public class CircleMenu extends AppCompatImageView {
 # 四、使用方法和demo
 0. github仓库
 [CircleMenu](https://github.com/Mayer-myx/CircleMenu)
+做star梦ing
 
 1. 放在项目目录下
 
